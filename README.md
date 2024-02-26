@@ -32,7 +32,8 @@ Software Engineer
                           
 <a href="https://www.twitch.tv/thechosendevop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
-## Badges
+
+Badges
 <b>My GitHub Stats</b>
 </br>
 <a href="http://www.github.com/thechosendevop"><img src="https://github-readme-stats.vercel.app/api?username=thechosendevop&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thechosendevop's GitHub stats" /></a><a
